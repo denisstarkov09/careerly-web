@@ -1,0 +1,34 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+.css-1p3m7a8-multiValue {
+    background-color: #EAF0FB !important;
+    border: 1px solid #8796ff;
+}
+.css-187mznn-MuiSlider-root {
+    color: #4356E0 !important;
+}
